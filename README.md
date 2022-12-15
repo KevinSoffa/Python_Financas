@@ -1,5 +1,5 @@
 <h1>Python_Financas &#x1F4C8</h1>
-Analisando a IBOVESP com Python/Pandas
+Analisando a IBOVESPA com Python/Pandas
 
 <hr>
 
